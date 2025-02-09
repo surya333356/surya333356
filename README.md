@@ -1,5 +1,7 @@
 # Hi 👋, I'm Surya Pratap Singh  
-A passionate Data Analyst skilled in Python, SQL, Power BI, and Tableau  
+# A passionate Data Analyst skilled in Python, SQL, Power BI, and Tableau  
+![Profile Views](https://komarev.com/ghpvc/?username=surya333356&label=Profile%20Views&color=blue&style=plastic)
+
 
 🔭 **Currently working:** Data Analyst Trainee at Unified Mentor
 
@@ -18,6 +20,12 @@ A passionate Data Analyst skilled in Python, SQL, Power BI, and Tableau
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-2E3440?style=for-the-badge&logoColor=white)  
+
 
 ## 📊 GitHub Stats:
 [![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surya333356&show_icons=true&theme=radical)](https://github.com/surya333356)
