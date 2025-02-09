@@ -1,11 +1,12 @@
 # Hi 👋, I'm Surya Pratap Singh  
 A passionate Data Analyst skilled in Python, SQL, Power BI, and Tableau  
 
-🔭 **Currently working:** Data Analyst Trainee at AlmaBetter  
+🔭 **Currently working:** Data Analyst Trainee at Unified Mentor 
 🌱 **Learning:** Machine Learning and Advanced SQL  
 💬 **Ask me about:** Data Analysis, SQL, Power BI, and Python  
 📫 **How to reach me:** suryaathakurrr@gmail.com  
 📄 **My Resume:** https://drive.google.com/file/d/1BfwP0Cngsj3t1kWVD__oFRUVoc45THcF/view?usp=drive_link
+
 ⚡ **Fun fact:** I love solving business problems using data-driven insights!  
 
 ## 🛠️ Languages and Tools:
