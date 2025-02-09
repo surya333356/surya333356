@@ -1,4 +1,5 @@
-# Hi 👋, I'm Surya Pratap Singh  
+# Hi 👋, I'm Surya Singh
+  
 # A passionate Data Analyst skilled in Python, SQL, Power BI, and Tableau  
 ![Profile Views](https://komarev.com/ghpvc/?username=surya333356&label=Profile%20Views&color=blue&style=plastic)
 
