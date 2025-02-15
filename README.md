@@ -12,10 +12,6 @@
 
 📫 **How to reach me:** suryaathakurrr@gmail.com  
 
-## 📄 My Resumes  
-🔹 [**Data Analyst Resume**](https://drive.google.com/file/d/1BfwP0Cngsj3t1kWVD__oFRUVoc45THcF/view?usp=drive_link)  
-🔹 [**Data Scientist Resume**](https://drive.google.com/file/d/1FrW_fJcw3TLMifcPxS6H-a2nNLtPrhFi/view?usp=drive_link)  
-
 ⚡ **Fun fact:** I love solving business problems using data-driven insights!  
 
 ## 🛠️ Languages and Tools:
