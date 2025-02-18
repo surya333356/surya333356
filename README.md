@@ -10,7 +10,7 @@
 
 💬 **Ask me about:** Data Analysis, SQL, Power BI, and Python 
 
-📫 **How to reach me:** suryaathakurrr@gmail.com  
+📫 **How to reach me:** suryaathakurrr@gmail.com | suryap7050@gmail.com
 
 ⚡ **Fun fact:** I love solving business problems using data-driven insights!  
 
