@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=surya333356&label=Profile%20Views&color=blue&style=plastic)
 
 
-🔭 **Currently working:** Data Analyst Trainee at Unified Mentor
+🔭 **Currently working:** Data Analyst at Cognizant
 
 🌱 **Learning:** Machine Learning and Advanced SQL
 
